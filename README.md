@@ -1,3 +1,3 @@
 # CG-Lab
 
-Aulas e provas de CG
+Aulas e provas de Computação Gráfica
